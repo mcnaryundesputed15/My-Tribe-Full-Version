@@ -241,4 +241,4 @@ This repository serves as the official landing page for My Tribe. The software i
 **Get the most recent version of My Tribe today!**
 
 ---
-**Last updated:** 2026-09-13 14:50:01 UTC
+**Last updated:** 2026-09-13 17:58:14 UTC
